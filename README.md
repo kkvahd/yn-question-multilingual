@@ -3,7 +3,7 @@ The repository for EMNLP 2023 finding paper: [Interpreting Indirect Answers to Y
 
 # Dataset 
 
-The dataset is available under folder [data](https://github.com/wang-zijie/yn-question-multilingual/tree/main/data), including [training dataset](https://github.com/wang-zijie/yn-question-multilingual/tree/main/data/train_dataset), [dev dataset](https://github.com/wang-zijie/yn-question-multilingual/tree/main/data/test_dataset), and [test dataset](https://github.com/wang-zijie/yn-question-multilingual/tree/main/data/test_dataset).
+The dataset is available under folder [data](https://github.com/kkvahd/yn-question-multilingual/tree/main/data), including [training dataset](https://github.com/kkvahd/yn-question-multilingual/tree/main/data/train_dataset), [dev dataset](https://github.com/kkvahd/yn-question-multilingual/tree/main/data/test_dataset), and [test dataset](https://github.com/kkvahd/yn-question-multilingual/tree/main/data/test_dataset).
 
 
 ## Training Dataset Statistics
@@ -36,6 +36,16 @@ Install required packages
 pip install --upgrade pip
 pip install -r ./requirements.txt
 ```
+
+# How to run the code
+Install the requirementes using the above command, here's how to run the code.
+
+Cell number 3 has this command
+`FILE_PATH = 'The parent folder to the data folder'`
+
+Make sure it is the path to the folder where the data folder is stored. If you want to upload the data to the drice and then use it, refer cell 2.
+
+Simply run the cells like a regular ipynb.
 
 # Citation
 
