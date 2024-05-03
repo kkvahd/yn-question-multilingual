@@ -1,0 +1,451 @@
+Data: I have already paid off my open positions with the previous supplier and have now paid the Cmor commission to Edison Energia. Will I receive a refund?
+Answer: This will happen only after your payment is registered by your previous supplier and communicated to Edison Energia
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: Are Social Bonuses cumulative?
+Answer: Every family unit that meets the requirements can request both the electricity bonus and the gas bonus due to financial constraints.
+Incorrect prediction: Predicted: Middle, True: Yes
+-------------------------------------------------- -----------------------------
+Date: Can I check if I have paid all my bills?
+Answer: After registering in the CUSTOMER AREA, in the INVOICES section, by selecting the item 'Manage invoices and payments', you will be able to select the various types of invoices present, including: EXPIRED
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------- -----------------------------
+Data: I am an Edison customer with a flat rate. Will I be forced to switch to the dual rate tariff?
+Answer: Edison allows you to choose whether to switch to the two-time rate or maintain the single-rate rate.
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------- -----------------------------
+Data: Hi, is it good for softening slightly dry skin?
+Answer: this product cleanses, hydrates and protects
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Date: Does it snow with the hand pump?
+Answer: With foaming nebulizer
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Date: Can I avoid final polishing with this product?
+Answer: It is not mandatory to polish the car, you can also simply decontaminate it thoroughly, but the result will not be the same as a polishing
+Incorrect prediction: Predicted: No, True: Middle
+-------------------------------------------------- -----------------------------
+Data: Can I decontaminate the entire car with one kit?
+Answer: Enough for a mid-size car
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Date: After treating the bodywork with Clay Bar, is it necessary to wash the car again?
+Answer: After having decontaminated the bodywork, it is necessary to proceed with a complete car wash
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------- -----------------------------
+Data: Does it eliminate scratches?
+Answer: The Headlight Regenerator Kit restores the headlights by eliminating small and light scratches and the dull patina caused by time and bad weather
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Data: Does it eliminate traces of glue?
+Answer: You can use Decaflash to remove glue from fabrics and then clean the surface thoroughly
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------- -----------------------------
+Data: Can I use it for shoe prints left for example on the (rough) plastic of the inside of the door?
+Answer: To remove shoe prints from the internal plastic of the door you can use the Hp12 degreaser and then protect with 3in1 Plastiche
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Data: I have a Renault Kadjar. Can I decontaminate the entire car with one kit?
+Answer: Enough for a mid-size car
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Date: Can I clean the leather steering wheel and gear lever or just plastic?
+Answer: The product is specific for cleaning plastic surfaces
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Date: Do you clean the dashboard with a damp cloth first?
+Answer: Apply this product directly, it cleans and polishes at the same time. Great product, just follow the instructions!
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: Is it suitable for pre-washing the car?
+Answer: Fast Cleaner is a quick cleaner, for dry cleaning the car or as a final touch after washing
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: Is this product recommended for removing scratches on hard plastic dashboards?
+Answer: The 3in1 Plastic Treatment product does not remove deep scratches on plastics, it cleans, revives and protects plastics
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: Does it eliminate saltiness?
+Answer: I tried it on cappuccino and fruit juice stains and the seat was as good as new, I have no idea about the saltiness but I would tend to say yes
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Data: Hi, can I use it on car headlights?
+Answer: Plastic To restore dull and yellowed headlights we recommend the Regénera Fari Kit
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: Hi.... So, should a dry car be sprayed down and wiped down with a microfiber cloth?
+Answer: Right? On a dry car - spray evenly on the part to be treated in small doses, spread the product with a cloth
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+-------------------------------------------------- ----------------------------
+Data: Is it good for cleaning the roof of the car?
+Answer: Hp12 is suitable for cleaning the convertible top
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Data: Is it useful for cleaning glass and plastic inside cars?
+Answer: Given its very large surface area, the sheet is more suitable for bodywork
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------- -----------------------------
+Data: Is this good for brightening up the dashboard and filling small scratches?
+Answer: The product does not fill scratches, but protects and revives the plastic of the dashboard
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Data: Is it useful for removing tar?
+Answer: To remove tar stains from the bodywork we recommend the Deca Flash Mafra product
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: Should it be used after washing the car?
+Answer: Fast Cleaner is a dry cleaner with detergent properties that allows you to wash the car without water, it does not require washing the car before use
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Data: After reopening my Buddybank account, can I invite friends and get bonuses?
+Answer: If you have already been a buddybank customer, when you reopen your current account you will not be able to receive the bonus as a guest (see previous question); however, you will be able to invite your friends and receive bonuses as an inviter.
+Incorrect prediction: Predicted: Middle, True: Yes
+-------------------------------------------------- -----------------------------
+Date: I forgot my debit card, can I still withdraw?
+Answer: enter the app, on the homepage you will find the "withdraw" option, this option allows you to withdraw for free at UniCredit BancoSmart ATMs.
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------- -----------------------------
+Data: Can I change the spending category attributed to my transactions?
+Answer: just enter the list of movements to the right of the balance and click on the icon next to the movement; you will find the complete list and you can immediately change category, inserting the one you think is most correct.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Date: Can I pay university fees?
+Answer: With your buddybank account you can pay every bill, MAV/RAV or CBILL and PagoPA directly in the app.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Data: Can I use a copy of my documents?
+Answer: Only photographs of the original documents that will allow you to proceed with opening the buddybank current account will be accepted.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Data: I am an employee of the UniCredit Group, if a friend of mine opens an account with my invitation code will he receive the bonus?
+Answer: you will receive the €40 bonus within 15 working days of actually opening the current account.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Data: Will we cross the Brooklyn Bridge on our bus?
+Answer: the bridge can only be crossed on foot or by car, buses and heavy vehicles are prohibited.
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------- -----------------------------
+Date: Is there a dress code?
+Answer: comfortable and casual clothing is recommended.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Date: Is there a dress code to follow?
+Answer: The terraces require elegant-casual clothing. No brand of trainers or trainers are permitted. In summer, shorts, tank tops or flip flops are not permitted, only sandals
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------- -----------------------------
+Data: I biglietti per musical ed eventi sportivi vengono acquistati direttamente presso di voi?
+Answer:  Grazie al nostro sito verrai messo in contatto con la loro piattaforma di rivendita biglietti con la quale potrai completare l'acquisto.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: L'escursione è disponibile tutti i giorni?
+Answer:  è disponibile nei seguenti giorni: lunedì/giovedì/sabato.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: La partenza del tour è garantita?
+Answer:  tour sono soggetti ad un numero minimo che varia in base al tour scelto. In caso di\ncancellazione, ti invieremo un avviso entro 24 ore prima dell'inizio del tour via email o cellulare.
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------------------------------------
+Data: È possibile prenotare la navetta per Bronx/Queens/Brooklyn/New Jersey?
+Answer:  la navetta è disponibile solo per hotel e appartamenti a Manhattan.
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------------------------------------
+Data: Posso saltare tutte le righe?
+Answer:  sei il presidente?
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------------------------------------
+Data: Pranzo e cena sono inclusi?
+Answer:  offriamo opzioni per pranzare o cenare da soli.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Se acquisto più servizi ho diritto ad uno sconto?
+Answer:  I nostri prezzi sono i più competitivi\sul mercato.
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------------------------------------
+Data: Se voglio fare acquisti più a lungo, posso prendere un autobus più tardi?
+Answer:  deve essere prenotato in anticipo poiché i posti a sedere sono privati e il prezzo è di $ 3 a persona.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Utilizzi autobus scoperti?
+Answer:  i nostri autobus sono coperti.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Accettate tutti i tipi di carte di credito per l'ADSL?
+Answer:  solo Visa e Mastercard.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Devo necessariamente avere il PC acceso per poter telefonare?
+Answer:  se hai un dispositivo come il nostro FRITZ! puoi collegare un normale telefono ed utilizzarlo anche con il PC spento.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Dovrò cambiare il mio numero di telefono?
+Answer:  Se possiedi i requisiti richiesti puoi utilizzare il nostro servizio di portabilità del numero e mantenere il tuo vecchio numero di telefono.
+Incorrect prediction: Predicted: No, True: Middle
+-------------------------------------------------------------------------------
+Data: Ho limiti al traffico dati?
+Answer:  Illimitato
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: I numeri VoIP compaiono nella rubrica telefonica?
+Answer:  Normalmente no, ma può essere richiesto il servizio di inserimento nell'elenco telefonico
+Incorrect prediction: Predicted: No, True: Middle
+-------------------------------------------------------------------------------
+Data: Per l'ADSL è disponibile l'opzione FAST?
+Answer:  Di default le ADSL (escluso 4Game) sono attivate in interleaved, ma su richiesta possono essere cambiate in FAST.
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------------------------------------
+Data: Posso inviare fax ai prefissi italiani 199, 840, 841, 847, 848?
+Answer:  il servizio è disponibile sui numeri fissi e mobili italiani e sui numeri verdi con prefisso 800.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Posso inviare fax se utilizzo MAC?
+Answer:  Scegli semplicemente il formato Base64 come codifica per qualsiasi allegato.
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------------------------------------
+Data: Posso utilizzare il fax con il FRITZ!Box?
+Answer:  consigliamo il servizio fax virtuale.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Se il dominio è scaduto posso trasferire il dominio?
+Answer:  deve prima essere rinnovato presso l'attuale fornitore e successivamente può essere trasferito a noi.
+Incorrect prediction: Predicted: No, True: Middle
+-------------------------------------------------------------------------------
+Data: Se si verificano problemi, posso accedere al server?
+Answer:  La manutenzione del server deve essere eseguita, per quanto possibile, da remoto.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Se sono cliente Fastweb posso attivare i servizi VoIP?
+Answer:  Il servizio è attivabile ma non è garantito il corretto funzionamento in quanto Fastweb utilizza una particolare infrastruttura di rete non perfettamente compatibile con i servizi VoIP.
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------------------------------------
+Data: Devo portare con me la Emerald Card per il conferimento dei piccoli rifiuti ingombranti?
+Answer:  Un nome è tutto ciò di cui abbiamo bisogno
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Dovresti toccare il cestino con le mani?
+Answer:  Basta avvicinare la Emerald Card e il cassetto si aprirà automaticamente. Per chiuderlo è necessario premere il pedale.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: CI SARÀ UN SERVIZIO DI ASSISTENZA?
+Answer:  Il servizio è stato pensato sia per le persone già esperte che per quelle meno esperte. Ci sarà un percorso settimanale ricco di informazioni che ti serviranno per capire come migliorare la tua forma fisica e mentale. Il nostro team sarà a tua disposizione
+Incorrect prediction: Predicted: Middle, True: Yes
+-------------------------------------------------------------------------------
+Data: Il latte va bene?
+Answer:  se non hai problemi con il lattosio
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Posso aggiungere il mio allenamento al programma?
+Answer:  Idealmente è meglio seguire il programma che hai scelto, questo dovrebbe essere il tuo allenamento :)
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Posso usare le farine?
+Answer:  Meglio meno possibile, e sì farine di legumi o di avena, non altri tipi di farine; diciamo non più di due volte a settimana, bisogna calcolare la farina come percentuale di carboidrati secchi, quindi come i cereali
+Incorrect prediction: Predicted: No, True: Middle
+-------------------------------------------------------------------------------
+Data: SE ANNULLO IL MIO ABBONAMENTO AVRÒ ANCORA ACCESSO AI CONTENUTI?
+Answer:  Immagina CoachingOne come Netflix. È un servizio di contenuti quindi finché il tuo abbonamento è attivo hai accesso a tutti i contenuti pubblicati su CoachingOne, mentre una volta
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Va bene qualsiasi tipo di yogurt?
+Answer:  Ideali Soyasun, bianco total zero, bianco skyr, tutti gli yogurt che contengano più di 5 g di proteine, meno di 3 g di grassi e meno di 5 g di carboidrati per 100 g
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: È necessario avere una firma digitale?
+Answer:  La fattura verrà firmata direttamente tramite il software e successivamente inviata e collocata in archivio sostitutivo.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Durante l'anno supero il limite dei documenti: posso passare alla licenza superiore?
+Answer:  Nella sezione Licenza e piani, premi il pulsante TRASFORMA GRATUITA.
+Incorrect prediction: Predicted: Middle, True: Yes
+-------------------------------------------------------------------------------
+Data: Sono obbligato a comunicare il mio codice destinatario all'agenzia delle entrate?
+Answer:  Non è obbligatorio comunicare il codice destinatario all'agenzia delle entrate ma consigliamo vivamente di farlo in modo che se un fornitore invia la fattura senza codice destinatario, questa viene comunque intercettata
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------------------------------------
+Data: Il bouldering è pericoloso?
+Answer:  Come in tutte le attività sportive e non, il pericolo principale per l’uomo è l’uomo stesso.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Siete aperti nei fine settimana?
+Answer:  siamo aperti dal lunedì al venerdì dalle 10:00 alle 23:00. Sabato dalle 10:00 alle 18:00.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: SONO ALL'ESTERO, POSSO ACQUISTARE I VOSTRI PRODOTTI?
+Answer:  Al momento Di Caro Pasquale Shop vende esclusivamente in Italia.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: È POSSIBILE ANNULLARE UN ORDINE GIA' EFFETTUATO?
+Answer:  L'ordine può essere annullato solo dai Clienti Consumatori prima della spedizione.
+Incorrect prediction: Predicted: Middle, True: Yes
+-------------------------------------------------------------------------------
+Data: Posso vincere più concorsi?
+Answer:  una volta che avrai vinto un Concorso o avrai ricevuto 2 o più Menzioni Speciali, ti sarà preclusa la partecipazione ai Concorsi Standard.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Il corriere può lasciare il pacco fuori dal cancello se non sono a casa al momento della consegna?
+Answer:  In caso di assenza, il corriere verrà il giorno successivo o ti contatterà per riprogrammare la spedizione.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: È disponibile la consegna a domicilio della spesa?
+Answer:  Dipende dai singoli Comuni.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Date: Are tickets for musicals and sporting events purchased directly from you?
+Answer: Thanks to our site you will be put in contact with their ticket resale platform with which you can complete the purchase.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: Is the excursion available every day?
+Answer: it is available on the following days: Monday/Thursday/Saturday.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: Is the tour departure guaranteed?
+Answer: tours are subject to a minimum number which varies based on the tour chosen. In case of\ncancellation, we will send you a notice within 24 hours before the start of the tour via email or mobile.
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------- -----------------------------
+Date: Is it possible to book the shuttle to Bronx/Queens/Brooklyn/New Jersey?
+Answer: The shuttle is only available for hotels and apartments in Manhattan.
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------- -----------------------------
+Data: Can I skip all lines?
+Answer: are you the president?
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------- -----------------------------
+Date: Are lunch and dinner included?
+Answer: We offer options for lunch or dinner alone.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Data: If I purchase multiple services am I entitled to a discount?
+Answer: Our prices are the most competitive on the market.
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------- -----------------------------
+Date: If I want to shop for longer, can I take a later bus?
+Answer: Must be booked in advance as seating is private and the price is $3 per person.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Date: Do you use open-top buses?
+Answer: our buses are covered.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: Do you accept all types of credit cards for ADSL?
+Answer: Visa and Mastercard only.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Data: Do I necessarily have to have the PC turned on to make calls?
+Answer: if you have a device like our FRITZ! you can connect a normal phone and use it even with the PC turned off.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: Will I have to change my phone number?
+Answer: If you meet the required requirements you can use our number portability service and keep your old telephone number.
+Incorrect prediction: Predicted: No, True: Middle
+-------------------------------------------------- -----------------------------
+Data: Do I have data traffic limits?
+Answer: Unlimited
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: Do VoIP numbers appear in the phone book?
+Answer: Normally not, but the telephone directory service may be requested
+Incorrect prediction: Predicted: No, True: Middle
+-------------------------------------------------- -----------------------------
+Date: Is the FAST option available for ADSL?
+Answer: By default ADSL (excluding 4Game) are activated in interleaved, but on request they can be changed to FAST.
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------- -----------------------------
+Date: Can I send faxes to Italian area codes 199, 840, 841, 847, 848?
+Answer: the service is available on Italian landlines and mobile numbers and on toll-free numbers with an 800 prefix.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Data: Can I send faxes if I use MAC?
+Answer: Simply choose Base64 format as the encoding for any attachment.
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------- -----------------------------
+Data: Can I use fax with the FRITZ!Box?
+Answer: we recommend the virtual fax service.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: If the domain has expired can I transfer the domain?
+Answer: It must first be renewed with the current supplier and then
+you may be transferred to us.
+Incorrect prediction: Predicted: No, True: Middle
+-------------------------------------------------- -----------------------------
+Data: If problems occur, can I access the server?
+Answer: Server maintenance should be performed remotely as far as possible.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Data: If I am a Fastweb customer, can I activate VoIP services?
+Answer: The service can be activated but correct functioning is not guaranteed as Fastweb uses a particular network infrastructure that is not perfectly compatible with VoIP services.
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------- -----------------------------
+Data: Do I have to bring the Emerald Card with me to dispose of small bulky waste?
+Answer: A name is all we need
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Data: Should you touch the trash can with your hands?
+Answer: Just bring the Emerald Card closer and the drawer will open automatically. To close it you need to press the pedal.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: WILL THERE BE AN ASSISTANCE SERVICE?
+Answer: The service was designed for both already expert and less experienced people. There will be a weekly journey full of information that you will need to understand how to improve your physical and mental fitness. Our team will be at your disposal
+Incorrect prediction: Predicted: Middle, True: Yes
+-------------------------------------------------- -----------------------------
+Data: Is milk okay?
+Answer: if you don't have problems with lactose
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Data: Can I add my workout to the program?
+Answer: Ideally it is better to follow the program you have chosen, this should be your workout :)
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: Can I use flours?
+Answer: Better as little as possible, and yes legume or oat flours, not other types of flours; let's say no more than twice a week, you need to calculate the flour as a percentage of dry carbohydrates, therefore like cereals
+Incorrect prediction: Predicted: No, True: Middle
+-------------------------------------------------- -----------------------------
+Date: IF I CANCEL MY SUBSCRIPTION WILL I STILL HAVE ACCESS TO THE CONTENTS?
+Answer: Imagine CoachingOne like Netflix. It is a content service so as long as your subscription is active you have access to all content published on CoachingOne, while once
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Data: Is any type of yogurt ok?
+Answer: Ideal Soyasun, white total zero, white skyr, all yogurts that contain more than 5 g of proteins, less than 3 g of fats and less than 5 g of carbohydrates per 100 g
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Data: Is it necessary to have a digital signature?
+Answer: The invoice will be signed directly via the software and subsequently sent and placed in a replacement archive.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: During the year I exceed the document limit: can I upgrade to a higher qualification?
+Answer: In the License and plans section, press the FREE TRANSFORM button.
+Incorrect prediction: Predicted: Middle, True: Yes
+-------------------------------------------------- -----------------------------
+Data: Am I obliged to communicate my recipient code to the tax agency?
+Answer: It is not mandatory to communicate the recipient code to the revenue agency but we strongly recommend doing so so that if a supplier sends the invoice without a recipient code, it is still intercepted
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------- -----------------------------
+Data: Is bouldering dangerous?
+Answer: As in all sporting and non-sporting activities, the main danger for humans is humans themselves.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
+Date: Are you open on weekends?
+Answer: we are open from Monday to Friday from 10:00 to 23:00. Saturday from 10:00 to 18:00.
+Incorrect prediction: Predicted: Yes, True: Middle
+--------------------------------------------------
+-----------------------------
+Date: I AM ABROAD, CAN I BUY YOUR PRODUCTS?
+Answer: At the moment Di Caro Pasquale Shop sells exclusively in Italy.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: IS IT POSSIBLE TO CANCEL AN ORDER ALREADY PLACED?
+Answer: The order can only be canceled by Consumer Customers before shipping.
+Incorrect prediction: Predicted: Middle, True: Yes
+-------------------------------------------------- -----------------------------
+Data: Can I win multiple contests?
+Answer: once you have won a Competition or received 2 or more Special Mentions, you will be barred from participating in the Standard Competitions.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: Can the courier leave the package outside the gate if I am not at home at the time of delivery?
+Answer: In case of absence, the courier will come the next day or contact you to reschedule the shipment.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------- -----------------------------
+Date: Is home delivery of groceries available?
+Answer: It depends on the individual municipalities.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------- -----------------------------
