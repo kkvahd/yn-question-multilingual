@@ -24,6 +24,24 @@ The dataset is available under folder [data](https://github.com/kkvahd/yn-questi
 |           % middle|  12.7 |  20.0  | 31.0    |  33.7  |   23.6  |   32.8  |  17.0  |   21.3  |
 
 
+## Training Dataset (Italian) Statistics (For part - 2)
+
+|                   | Italian |
+|------------------:| -------:|
+| Training instance |  10,295 |
+|              % yes|   69.8  |
+|               % no|   22.1  |
+|            % maybe|    8.1  |
+
+## Test Dataset (Italian) Statistics (For part - 2)
+
+|                   | Italian |
+|------------------:| -------:|
+| Training instance |   432   |
+|              % yes|   55.7  |
+|               % no|   31.5  |
+|            % maybe|   12.8  |
+
 ## Dataset Fields
 
 * ```Question:``` A yes-no question extracted from data sources using our rules.
@@ -46,6 +64,16 @@ Cell number 3 has this command
 Make sure it is the path to the folder where the data folder is stored. If you want to upload the data to the drice and then use it, refer cell 2.
 
 Simply run the cells like a regular ipynb.
+
+# Note on running part - 2
+
+To make it easier to run the code, we divided it in sections inside the ipynb. To execute part 2 completely follow these steps:
+
+1. Run section "Importing baseline English training data - circa-data.tsv & SWDA_IA_Train_data.xlsx". You can skip training the model if you do not want to evaluate the performance of the model trained on english data alone. But the tensors will be needed.
+
+2. Simply run the sections "Part-2" onwards.
+
+3. If a function is missing either command/control find it and run it or search "def function_name()" and run it.
 
 # Citation
 
