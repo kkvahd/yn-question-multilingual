@@ -1,0 +1,137 @@
+Data: Ho già saldato le mie posizioni aperte con il precedente fornitore e ora ho versato la commissione Cmor a Edison Energia. Riceverò un rimborso?
+Answer:  Ciò avverrà solo dopo che il tuo pagamento sarà registrato dal tuo precedente fornitore e comunicato a Edison Energia
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: I Bonus Sociali sono cumulabili?
+Answer:  Ogni nucleo familiare che soddisfa i requisiti può richiedere sia il bonus elettrico sia il bonus gas per ristrettezze economiche.
+Incorrect prediction: Predicted: Middle, True: Yes
+-------------------------------------------------------------------------------
+Data: Posso verificare se ho pagato tutte le bollette?
+Answer:  Dopo esserti registrato nell'AREA CLIENTI, nella sezione FATTURE, selezionando la voce 'Gestisci fatture e pagamenti', potrai selezionare le varie tipologie di fatture presenti, tra cui: SCADUTE
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------------------------------------
+Data: Sono cliente Edison con tariffa flat. Sarò costretto a passare alla tariffa dual rate?
+Answer:  Edison ti permette di scegliere se passare alla tariffa bioraria o mantenere la tariffa monoraria.
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------------------------------------
+Data: Ciao, va bene per ammorbidire la pelle leggermente secca?
+Answer:  questo prodotto deterge, idrata e protegge
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Nevica con la pompa a mano?
+Answer:  Con nebulizzatore schiumogeno
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Con questo prodotto posso evitare la lucidatura finale?
+Answer:  Non è obbligatorio lucidare l'auto, puoi anche semplicemente decontaminarla a fondo, ma il risultato non sarà lo stesso di una lucidatura
+Incorrect prediction: Predicted: No, True: Middle
+-------------------------------------------------------------------------------
+Data: Posso decontaminare l'intera vettura con un kit?
+Answer:  abbastanza per un'auto di medie dimensioni
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Dopo aver trattato la carrozzeria con Clay Bar è necessario lavare nuovamente l'auto?
+Answer:  Dopo aver decontaminato la carrozzeria, è necessario procedere con un lavaggio completo dell'auto
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------------------------------------
+Data: Elimina i graffi?
+Answer:  Il Kit Rigeneratore Fari ripristina i fari eliminando piccoli e leggeri graffi e la patina opaca causata dal tempo e dalle intemperie
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Elimina le tracce di colla?
+Answer:  Puoi utilizzare Decaflash per rimuovere la colla dai tessuti e poi pulire accuratamente la superficie
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------------------------------------
+Data: Posso usarlo per le impronte di scarpe lasciate ad esempio sulla plastica (ruvida) dell'interno della porta?
+Answer:  Per rimuovere le impronte di scarpe dalla plastica interna della porta puoi utilizzare lo sgrassatore Hp12 e poi proteggere con 3in1 Plastiche
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Ho una Renault Kadjar. Posso decontaminare l'intera vettura con un kit?
+Answer:  abbastanza per un'auto di medie dimensioni
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Posso pulire il volante e la leva del cambio in pelle o solo in plastica?
+Answer:  Il prodotto è specifico per la pulizia delle superfici plastiche
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Pulisci prima il cruscotto con un panno umido?
+Answer:  Passa direttamente questo prodotto, pulisce e lucida allo stesso tempo. Ottimo prodotto, basta seguire le istruzioni!
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: È adatto per il prelavaggio dell'auto?
+Answer:  Fast Cleaner è un detergente rapido, per il lavaggio a secco dell'auto o come tocco finale dopo il lavaggio
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Questo prodotto è consigliato per rimuovere i graffi sui cruscotti in plastica dura?
+Answer:  Il prodotto Trattamento Plastiche 3in1 non rimuove i graffi profondi sulle plastiche, pulisce, ravviva e protegge le plastiche
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Elimina la salsedine?
+Answer:  L'ho provato su macchie di cappuccino e succo di frutta e il sedile è tornato come nuovo, non ho idea della salsedine ma tenderei a dire di sì
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Ciao, posso usarlo sui fari dell'auto?
+Answer:  Plastica Per ripristinare i fari opachi e ingialliti consigliamo il Kit Regénera Fari
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Ciao.... Quindi, un'auto asciutta dovrebbe essere spruzzata e pulita con un panno in microfibra?
+Answer:  Giusto? Su vettura asciutta - spruzzare uniformemente sulla parte da trattare a piccole dosi, stendere il prodotto con un panno in
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Data: Va bene per pulire il tetto dell'auto?
+Answer:  Hp12 è adatto per la pulizia della capote
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: È utile per pulire vetri e plastica all'interno delle auto?
+Answer:  Data la sua superficie molto ampia il telo è più indicato per la carrozzeria
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------------------------------------
+Data: Va bene per ravvivare il cruscotto e riempire piccoli graffi?
+Answer:  Il prodotto non riempie i graffi, ma protegge e ravviva la plastica del cruscotto
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: È utile per rimuovere il catrame?
+Answer:  Per rimuovere le macchie di catrame dalla carrozzeria consigliamo il prodotto Deca Flash Mafra
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Va utilizzato dopo aver lavato l'auto?
+Answer:  Fast Cleaner è un lavasecco con proprietà detergenti che permette di lavare l'auto senza acqua, non necessita del lavaggio dell'auto prima dell'uso
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Dopo aver riaperto il mio conto Buddybank, posso invitare amici e ottenere bonus?
+Answer:  Se sei già stato cliente buddybank, alla riapertura del conto corrente non potrai ricevere il bonus come ospite (vedi domanda precedente); tuttavia, potrai invitare i tuoi amici e ricevere bonus come invitante.
+Incorrect prediction: Predicted: Middle, True: Yes
+-------------------------------------------------------------------------------
+Data: Ho dimenticato la mia carta di debito, posso ancora prelevare?
+Answer:  entra nell'app, in homepage troverai l'opzione “prelevare”, questa opzione ti permette di prelevare gratuitamente presso gli ATM UniCredit BancoSmart.
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------------------------------------
+Data: Posso modificare la categoria di spesa attribuita alle mie transazioni?
+Answer:  basta entrare nella lista dei movimenti a destra del saldo e cliccare sull'icona accanto al movimento; troverai l'elenco completo e potrai subito cambiare categoria, inserendo quella che ritieni più corretta.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Posso pagare le tasse universitarie?
+Answer:  Con il tuo conto buddybank puoi pagare ogni bolletta, MAV/RAV o CBILL e PagoPA direttamente in app.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Posso utilizzare una copia dei miei documenti?
+Answer:  Saranno accettate solo le fotografie dei documenti originali che consentiranno di procedere all'apertura del conto corrente buddybank.
+Incorrect prediction: Predicted: Yes, True: No
+-------------------------------------------------------------------------------
+Data: Sono un dipendente del Gruppo UniCredit, se un mio amico apre un conto con il mio codice invito riceverà il bonus?
+Answer:  riceverai il bonus di 40€ entro 15 giorni lavorativi dall'effettiva apertura del conto corrente.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: Attraverseremo il ponte di Brooklyn sul nostro autobus?
+Answer:  il ponte può essere attraversato solo a piedi o in auto, sono vietati autobus e mezzi pesanti.
+Incorrect prediction: Predicted: Middle, True: No
+-------------------------------------------------------------------------------
+Data: C'è un codice di abbigliamento?
+Answer:  si consiglia un abbigliamento comodo e casual.
+Incorrect prediction: Predicted: Yes, True: Middle
+-------------------------------------------------------------------------------
+Data: C'è un codice di abbigliamento da seguire?
+Answer:  Le terrazze richiedono un abbigliamento elegante-casual. Non è consentita alcuna marca di scarpe da ginnastica o scarpe da ginnastica. In estate non sono ammessi pantaloncini corti, canottiere o infradito, solo sandal
+Incorrect prediction: Predicted: No, True: Yes
+-------------------------------------------------------------------------------
